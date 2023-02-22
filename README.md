@@ -4,6 +4,8 @@ A clock written in Python using Tkinter
 ## About
 A simple program that shows the current date and time.
 
+The `clock-main.py` runs the program with console, but `Python_Clock.pyw` runs without console.
+
 ## Attention
 In the source code you will notice this piece of code:
 ```
